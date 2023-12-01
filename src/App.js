@@ -1,5 +1,5 @@
 import './App.css';
-import Interface from './Components/Interface1';
+import Interface from './Components/Interface';
 function App() {
   return (
     <div className="App">
