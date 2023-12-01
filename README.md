@@ -17,7 +17,6 @@ This is a user management interface built with React. It allows users to view, s
 - **Selection**: Select individual users or all users with a single checkbox.
 - **Editing**: Edit user information in-place.
 - **Deletion**: Delete selected users individually or in bulk.
-- **Responsive**: Works well on various screen sizes.
 
 ## Rajat Singh
 
